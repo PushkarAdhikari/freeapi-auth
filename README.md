@@ -1,10 +1,6 @@
 # FreeAPI React Authentication App
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/PushkarAdhikari/freeapi-auth)
-[![React Version](https://img.shields.io/badge/React-19-blue?logo=react)](https://react.dev)
-[![Vite Version](https://img.shields.io/badge/Vite-8-purple?logo=vite)](https://vite.dev)
-
-A premium, modern, and fully featured authentication application built with **React**, **Vite**, and **Vanilla CSS**. This app integrates with the **FreeAPI Authentication Module** to demonstrate modern frontend auth flows, token-based session persistence, loading indicators, custom toast alerts, and a responsive glassmorphic dashboard.
+A modern, and fully featured authentication application built with **React**, **Vite**, and **Vanilla CSS**. This app integrates with the **FreeAPI Authentication Module** to demonstrate modern frontend auth flows, token-based session persistence, loading indicators, custom toast alerts, and a responsive glassmorphic dashboard.
 
 🔗 **GitHub Repository:** [PushkarAdhikari/freeapi-auth](https://github.com/PushkarAdhikari/freeapi-auth)
 
@@ -85,13 +81,3 @@ Start the Vite local development server:
 npm run dev
 ```
 Open your browser and navigate to the local address (typically `http://localhost:5173`) to view and interact with the application.
-
-### Building for Production
-To build a highly optimized bundle, run:
-```bash
-npm run build
-```
-And preview the production build locally:
-```bash
-npm run preview
-```
